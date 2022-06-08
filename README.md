@@ -9,7 +9,7 @@
 | Bulid IOT system | wirless  |
 Project
 
-Networks 
+Networks , Project 
 
 1- send Pin to tow Pcs 
 2- link two network through Routers 
@@ -19,8 +19,9 @@ Network Design
 
 -  Buliding a Design  for link two Buliding 
 
-IOT  
+IOT   , Project 
 
 - Buliding alarm system 
 - wirless Connection \ at least two sensor 
 - Authentication - ssid  
+- Document / sensor , Actuator 
